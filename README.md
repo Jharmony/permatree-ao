@@ -2,7 +2,9 @@
 
 Welcome to the Monochromatic Permahills Linktree Template! This template provides a sleek, elegant, and modern aesthetic with monochromatic light and dark modes, a gentle twinkling star background, and custom scrollbars. It's perfect for creators who want a visually appealing, yet minimal, design for their linktree-style page.
 
+
 ## Key Features
+
 
 - **Light/Dark Mode Toggle**: Seamlessly switch between light and dark modes with a customizable toggle.
 - **Monochromatic Design**: A consistent design aesthetic with subtle gradients and smooth transitions.
@@ -86,6 +88,6 @@ Welcome to the Monochromatic Permahills Linktree Template! This template provide
   }
   ```
 
-Happy linking! 🌟
+Happy linking!
 
 [![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
